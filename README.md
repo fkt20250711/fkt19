@@ -16,4 +16,4 @@
 
 与其他影迷的互动也是平台的一大亮点，您可以分享您的观影体验、发表评论、评分并推荐好片，加入更多影迷讨论的行列。
 
-<span style="display:none;">[Canonical link]( )</span>
+<span style="display:none;">[Canonical link](https://github.com/fkt20250711/fkt19 )</span>
